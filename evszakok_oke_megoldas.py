@@ -7,7 +7,7 @@ ev = [
     Evszak('tavasz', ['március',    'április', 'május'    ]),
     Evszak('nyár',   ['júnuis',     'július',  'augusztus']),
     Evszak('ősz',    ['szeptember', 'október', 'november' ]),
-    Evszak('tél',    ['december',   'január',  'fenruár'  ])
+    Evszak('tél',    ['december',   'január',  'február'  ])
     ]
 
 keresett_honap = input('írd be egy hónap nevét: ')

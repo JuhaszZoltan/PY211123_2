@@ -4,10 +4,11 @@ class Evszak:
         self.Honapok = honapok
 
 ev = [
-    Evszak('tavasz', ['március', 'április', 'május']),
-    Evszak('nyár', ['júnuis', 'július', 'augusztus']),
-    Evszak('ősz', ['szeptember', 'október', 'november']),
-    Evszak('tél', ['december', 'január', 'fenruár'])]
+    Evszak('tavasz', ['március',    'április', 'május'    ]),
+    Evszak('nyár',   ['júnuis',     'július',  'augusztus']),
+    Evszak('ősz',    ['szeptember', 'október', 'november' ]),
+    Evszak('tél',    ['december',   'január',  'fenruár'  ])
+    ]
 
 keresett_honap = input('írd be egy hónap nevét: ')
 i = 0

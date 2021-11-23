@@ -5,7 +5,7 @@ class Evszak:
 
 ev = [
     Evszak('tavasz', ['marcius', 'aprilis', 'majus']),
-    Evszak('nyár', ['júnuiis', 'július', 'augusztus']),
+    Evszak('nyár', ['júnuis', 'július', 'augusztus']),
     Evszak('ősz', ['szeptember', 'október', 'november']),
     Evszak('tél', ['december', 'január', 'fenruár'])]
 

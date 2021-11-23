@@ -4,7 +4,7 @@ class Evszak:
         self.Honapok = honapok
 
 ev = [
-    Evszak('tavasz', ['marcius', 'aprilis', 'majus']),
+    Evszak('tavasz', ['március', 'április', 'május']),
     Evszak('nyár', ['júnuis', 'július', 'augusztus']),
     Evszak('ősz', ['szeptember', 'október', 'november']),
     Evszak('tél', ['december', 'január', 'fenruár'])]
